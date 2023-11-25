@@ -1,16 +1,5 @@
 import React from "react";
-import {
-  MDBCol,
-  MDBContainer,
-  MDBRow,
-  MDBCard,
-  MDBCardText,
-  MDBCardBody,
-  MDBCardImage,
-  MDBIcon,
-  MDBListGroup,
-  MDBListGroupItem,
-} from "mdb-react-ui-kit";
+import { MDBCard, MDBCardBody, MDBCardImage } from "mdb-react-ui-kit";
 import { Button } from "react-bootstrap";
 
 type profileProps = {
